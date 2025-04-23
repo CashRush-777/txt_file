@@ -1,4 +1,4 @@
 {
-"link": "https://github.com/CashRush-777/QR_Image/blob/main/WhatsApp%20Image%202025-04-23%20at%2012.46.19_5b44f40b.jpg?raw=true",
+"link": "https://raw.githubusercontent.com/CashRush-777/QR_Image/refs/heads/main/WhatsApp%20Image%202025-04-23%20at%2012.46.19_5b44f40b.jpg",
   "email": "nooraalm7171@gmail.com"
 }
