@@ -2,5 +2,5 @@
   "link": "https://raw.githubusercontent.com/CashRush-777/QR_Image/refs/heads/main/qr_image.jpg",
   "email": "https://www.youtube.com/",
   "display": "https://www.google.com/search?q=%7BUnityEngine.AddressableAssets.Addressables.RuntimePath%7D%2F%5BBuildTarget%5D&rlz=1C1ONGR_enPK1013PK1014&oq=%7BUnityEngine.AddressableAssets.Addressables.RuntimePath%7D%2F%5BBuildTarget%5D&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEyODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
-  "extra": "For Zelle payment click qr code and for cashapp payment click Facebook butten down bellow thank you "
+  "extra": "For Zelle payment scan qr code and for cashapp payment click Facebook butten down bellow thank you "
 }
