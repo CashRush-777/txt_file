@@ -1,6 +1,6 @@
 {
   "link": "https://raw.githubusercontent.com/CashRush-777/QR_Image/refs/heads/main/qr_image.jpg",
   "email": "Cash App Payment",
-  "display": "http://cash.app/$Butilovehmomb56",
+  "display": "https://m.me/264109803454247",
   "extra": "For Zelle payment scan qr code and for cashapp payment Button if payment doesn't provide then click Facebook button down bellow"
 }
