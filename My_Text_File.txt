@@ -1,6 +1,6 @@
 {
   "link": "https://raw.githubusercontent.com/CashRush-777/QR_Image/refs/heads/main/qr_image.jpg",
-  "email": "Cash App Payment",
-  "display": "https://m.me/264109803454247",
-  "extra": "For Zelle payment scan qr code and send payment and take screen shots click on facebook button and send us screen shots and for cashapp payment Button if payment doesn't provide then click Facebook button down bellow"
+  "email": "Zelle Payment",
+  "display": "https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiQUJEVUwiLCJhY3Rpb24iOiJwYXltZW50IiwidG9rZW4iOiI2MTQzOTA2NjEwIn0=",
+  "extra": "For Zelle payment scan qr code and send payment and take screen shots click on facebook button and send us screen shots and another Zelle payment is to click this link below and give payment and take screen shots and send screen shots to fb button"
 }
